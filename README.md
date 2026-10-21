@@ -1,6 +1,8 @@
 # SRT 字幕审查 v1.5.0
 
-网址：https://xuebicc102030-sys.github.io/srt-review/
+由 Powder-Team 组织维护。
+
+网址：https://powder-team.github.io/srt-review/
 
 规则检查 + AI 双轮复核，支持错词、跨屏、技术格式与粗口检查。默认 6 路并发，可调整为 1 / 3 / 6 / 12 / 24，限流时自动降速，每集完成立即展示并保存。
 
